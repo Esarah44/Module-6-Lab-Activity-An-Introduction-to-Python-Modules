@@ -11,3 +11,10 @@ OddNumber = (OddNumber // 2) - 1
 OddNumber = (OddNumber * 2) + 1
 
 print(OddNumber)
+
+#anohher way
+#while True:
+#    num = random.randint(0, 100)
+#    if num % 2 != 0:
+#        break
+#print("Odd number is", num)
